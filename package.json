@@ -1,10 +1,13 @@
 {
+  "bin": {
+    "mrepol742": "webvium.js"
+  },
   "name": "webvium",
   "version": "1.0.1",
   "description": "Lightweight, Fast, Material and Full-Featured Android Web Browser.",
   "main": "webvium.js",
   "scripts": {
-    "test": "node me.js",
+    "test": "node webvium.js",
     "pub": "npm version major & npm publish"
   },
   "repository": {
