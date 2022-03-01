@@ -1,6 +1,6 @@
 {
   "bin": {
-    "mrepol742": "webvium.js"
+    "webvium": "webvium.js"
   },
   "name": "webvium",
   "version": "1.0.2",
@@ -17,9 +17,8 @@
   "keywords": [
     "melvin jones repol",
     "mrepol742",
-    "software engineer",
+    "software engineer",    "Me, I and Myselft",
     "webvium",
-    "Me, I and Myselft",
     "mrepol742.github.io"
   ],
   "author": "Melvin Jones Repol",
