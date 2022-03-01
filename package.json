@@ -3,7 +3,7 @@
     "webvium": "webvium.js"
   },
   "name": "webvium",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lightweight, Fast, Material and Full-Featured Android Web Browser.",
   "main": "webvium.js",
   "scripts": {
@@ -17,7 +17,8 @@
   "keywords": [
     "melvin jones repol",
     "mrepol742",
-    "software engineer",    "Me, I and Myselft",
+    "software engineer",
+    "Me, I and Myselft",
     "webvium",
     "mrepol742.github.io"
   ],
