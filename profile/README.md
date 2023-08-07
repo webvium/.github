@@ -1,11 +1,32 @@
-# Webvium Browser
-<img src="https://mrepol742.github.io/images/webvium22.png" alt="Webvium Browser">
+# webvium
+A project in aims of providing lightweight, secured and full featured web browser for android devices without sacrificing the space, UI, features and compatibility. Webvium supports variety of android devices and it support Android OS 5 up into newer version. 
+
+It has a download size of less than 600KB which is pretty small compared to it's other lightweight android web browser. Providing the best Software is our job. Thank you for choosing Webvium.
+
+## Installation
+
+**Android**
+- Download [Webvium Browser](https://mrepol742.github.io/webvium)
+- Install the webvium.apk file (proceed to instruction to allow installation of 3rd party app if prompt)
+
+**Windows**
+- Enable WSA (Window Subsystem for Android)
+- Sideloaded Webvium.apk file or download it via Amazon App Store for free.
+  
+
+### Webvium Browser
 
 A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.
-https://mrepol742,github.io/webvium
+https://mrepol742.github.io/webvium
 
-# Webvium VPN
-<img src="https://mrepol742.github.io/images/webviumvpn.png" alt="Webvium VPN">
+<img src="https://mrepol742.github.io/images/webvium22.png" alt="Webvium Browser" width="400">
+
+
+### Webvium VPN
 
  Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.
 https://mrepol742.github.io/webviumvpn
+
+<img src="https://mrepol742.github.io/images/webviumvpn.png" alt="Webvium VPN" width="400">
+
+
