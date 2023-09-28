@@ -1,8 +1,3 @@
-# webvium
-A project in aims of providing lightweight, secured and full featured web browser for android devices without sacrificing the space, UI, features and compatibility. Webvium supports variety of android devices and it support Android OS 5 up into newer version. 
-
-It has a download size of less than 600KB which is pretty small compared to it's other lightweight android web browser. Providing the best Software is our job. Thank you for choosing Webvium.
-
 ## Installation
 
 **Android**
