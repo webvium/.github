@@ -16,14 +16,13 @@
 A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.
 https://mrepol742.github.io/webvium
 
-
-<img src="https://mrepol742.github.io/images/webviumvpn.png" alt="Webvium VPN" align="right" width="350px"/>
-
 ### Webvium VPN
 
  Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.
 https://mrepol742.github.io/webviumvpn
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/com.mrepol742.webvium)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrepol742@gmail.com)
 
 💰 **Support**
 
